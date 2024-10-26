@@ -29,7 +29,6 @@ I'm always looking to improve, learn, and take advantage of innovative technolog
 </a>&nbsp;&nbsp;
 <a href="mailto:28francis.junior@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="40" height="40">
-</a>
-&nbsp;&nbsp;
+</a>&nbsp;&nbsp;
 
 The future is here, are you ready?! 🚀
