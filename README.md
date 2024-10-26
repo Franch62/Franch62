@@ -2,13 +2,11 @@
 
 Hello, my name is Francis, and I’m a Software Developer and Technology Enthusiast.
 
-In 2023, I started my career in the technology area. I entered a great college to improve my knowledge, and in the same year, I dedicated myself to finding my first jobs in the field. I'm currently a back-end developer!
-
-I am always looking to improve, learn, and take advantage of innovative technologies. The future has arrived.
+In 2023, I started my career in technology. I entered a great college to improve my knowledge, and in the same year, I dedicated myself to perfecting my talents and giving my best!!!
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack 🐱‍👤
 
 <div style="display: flex; gap: 10px; align-items: center;">
   <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40">
@@ -22,7 +20,7 @@ I am always looking to improve, learn, and take advantage of innovative technolo
 
 ## 🌱 About Me
 
-I am passionate about technology and focused on back-end development. I am constantly exploring new tools and techniques and am open to collaboration and exciting projects!
+I'm always looking to improve, learn, and take advantage of innovative technologies. During my journey, I'm constantly exploring new tools and techniques, and I'm open to collaboration and interesting projects! I currently work as a back-end developer at AgroCRM.
 
 ---
 
