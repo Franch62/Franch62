@@ -6,7 +6,7 @@ In 2023, I started my career in technology. I entered a great college to improve
 
 ---
 
-## 🛠️ Tech Stack 🐱‍👤
+## 🛠️ Skills 🐱‍👤
 
 <div style="display: flex; align-items: center;">
   <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40">&nbsp;&nbsp;
