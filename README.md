@@ -26,11 +26,10 @@ I'm always looking to improve, learn, and take advantage of innovative technolog
 ## 🌐 Where to Find Me
 <a href="https://www.linkedin.com/in/franch5" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40">
-</a><br>&nbsp;&nbsp;
+</a><br>
 <a href="mailto:28francis.junior@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="40" height="40">
 </a><br>
-&nbsp;
-&nbsp;
 
-The future is here, are you ready?! 🚀
+The future is here – are you ready to join it? 🚀
+
