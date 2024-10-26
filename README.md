@@ -11,11 +11,11 @@ I am always looking to improve, learn, and take advantage of innovative technolo
 ## 🛠️ Tech Stack
 
 <div style="display: flex; gap: 10px; align-items: center;">
-  <img src="https://tabler-icons.io/static/tabler-icons/logo-nodejs.svg" alt="Node.js" width="40" height="40">
-  <img src="https://tabler-icons.io/static/tabler-icons/logo-typescript.svg" alt="TypeScript" width="40" height="40">
-  <img src="https://tabler-icons.io/static/tabler-icons/logo-csharp.svg" alt="C#" width="40" height="40">
-  <img src="https://tabler-icons.io/static/tabler-icons/logo-dot-net.svg" alt=".NET" width="40" height="40">
-  <img src="https://tabler-icons.io/static/tabler-icons/logo-react.svg" alt="React" width="40" height="40">
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40">
+  <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="40" height="40">
+  <img src="https://skillicons.dev/icons?i=csharp" alt="C#" width="40" height="40">
+  <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" width="40" height="40">
+  <img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40">
 </div>
 
 ---
