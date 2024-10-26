@@ -25,6 +25,13 @@ I'm always looking to improve, learn, and take advantage of innovative technolog
 ---
 
 ## 🌐 Where to Find Me
+<a href="https://www.linkedin.com/in/franch5" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40">
+</a>
+&nbsp;&nbsp;
+<a href="mailto:28francis.junior@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="40" height="40">
+</a>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franch5) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:28francis.junior@gmail.com)
 
