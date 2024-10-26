@@ -31,5 +31,5 @@ I'm always looking to improve, learn, and take advantage of innovative technolog
   <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="40" height="40">
 </a><br>
 
-The future is here – are you ready to join it? 🚀
+The future is here. Are you ready to join it? 🚀
 
