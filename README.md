@@ -8,11 +8,11 @@ In 2023, I started my career in technology. I entered a great college to improve
 
 ## 🛠️ Tech Stack 🐱‍👤
 
-<div style="display: flex; gap: 10px; align-items: center;">
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40">
-  <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="40" height="40">
-  <img src="https://skillicons.dev/icons?i=cs" alt="C#" width="40" height="40">
-  <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" width="40" height="40">
+<div style="display: flex; align-items: center;">
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40">&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="40" height="40">&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=cs" alt="C#" width="40" height="40">&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" width="40" height="40">&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40">
 </div>
 
