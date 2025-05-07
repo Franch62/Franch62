@@ -13,6 +13,11 @@ In 2023, I started my career in technology. I entered a great college to improve
   <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="40" height="40">&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=cs" alt="C#" width="40" height="40">&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" width="40" height="40">&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=go" alt="Go" width="40" height="40">&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="40" height="40">&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=next" alt="Next" width="40" height="40">&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySql" width="40" height="40">&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="Mongo" width="40" height="40">&nbsp;&nbsp;
 </div>
 
 ---
